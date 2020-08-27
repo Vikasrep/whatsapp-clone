@@ -1,3 +1,12 @@
+
+Live project lives at --> https://whats-app-clone-85baa.web.app/
+
+This is group chat application that lets you login with your gmail account and chat with other logged in users.
+
+Tech used are > Reacjs, firebase , css, javascript 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
